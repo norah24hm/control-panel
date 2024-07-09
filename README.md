@@ -10,8 +10,5 @@ The task idea is to build simple control panel to control the robot motion, the 
 3. Create a table inside our database, called: robotdir with the id attribute and make it auto increment, also add the direction attribute.
 4. Using your code editor wright html, css codes to build and design the pages, php to connect to the database and to pass info from the control panel to be stored and displayed on the other page.
 
-# ex:
-'''
-hhhh
-'''
+
 
