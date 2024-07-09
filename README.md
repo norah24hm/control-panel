@@ -10,6 +10,11 @@ The task idea is to build simple control panel to control the robot motion, the 
 3. Create a table inside our database, called: robotdir with the id attribute and make it auto increment, also add the direction attribute.
 4. Using your code editor wright html, css codes to build and design the pages, php to connect to the database and to pass info from the control panel to be stored and displayed on the other page.
 
+# The final interface for controling the robot:
+
 ![robot-control-panel](https://github.com/norah24hm/control-panel/assets/174956710/8da1901d-fe3d-4423-b6a7-870f4a633b05)
+
+# The interface that shows the last entered direction:
+![next-move](https://github.com/norah24hm/control-panel/assets/174956710/269240ae-7af4-4643-815f-c6f66cea50b7)
 
 
